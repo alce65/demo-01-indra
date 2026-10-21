@@ -1,0 +1,19 @@
+From a4b73c5d8fe931ac351ac965f32042faa3976842 Mon Sep 17 00:00:00 2001
+From: Alejandro Cerezo <alce65@hotmail.es>
+Date: Wed, 21 Oct 2026 13:00:34 +0200
+Subject: [PATCH] Fix critical error
+
+---
+ web/index.js | 1 +
+ 1 file changed, 1 insertion(+)
+
+diff --git a/web/index.js b/web/index.js
+index 3c5f3a2..d72edd0 100644
+--- a/web/index.js
++++ b/web/index.js
+@@ -1 +1,2 @@
+ console.log('Loading home page...');
++console.log('Solve hot fix');
+-- 
+2.56.0.windows.2
+
