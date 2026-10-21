@@ -1,3 +1,0 @@
-Ejemplo de fichero
-
-Hemos cambiado el contenido en un rebase i
