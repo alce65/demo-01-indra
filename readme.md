@@ -12,3 +12,8 @@ Lo incluimos en un segundo commit para que se pueda ver la diferencia entre el p
 - `git add <archivo>`: Agrega un archivo al área de preparación (staging area) para su posterior commit.
 - `git commit -m "<mensaje>"`: Crea un nuevo commit con los cambios agreg
 - `git status`: Muestra el estado actual del repositorio, incluyendo los archivos modificados y los cambios pendientes de commit.
+
+## Repositorios remotos
+
+- 'git remote'
+- 'git clone'
