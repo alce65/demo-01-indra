@@ -14,6 +14,11 @@ Lo incluimos en un segundo commit para que se pueda ver la diferencia entre el p
 - `git log`: Muestra el historial de commits del repositorio, incluyendo los mensajes de
 - `git status`: Muestra el estado actual del repositorio, incluyendo los archivos modificados y los cambios pendientes de commit.
 
+## Ramas (Branch)
+
+- `git branch`
+- `git checkout` 
+
 ## Repositorios remotos
 
 - `git remote add origin <url>`: Agrega un repositorio remoto con el nombre "origin" y la URL especificada.
