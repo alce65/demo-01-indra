@@ -11,7 +11,12 @@ Lo incluimos en un segundo commit para que se pueda ver la diferencia entre el p
 - `git init`: Inicializa un nuevo repositorio de Git en el directorio actual.
 - `git add <archivo>`: Agrega un archivo al área de preparación (staging area) para su posterior commit.
 - `git commit -m "<mensaje>"`: Crea un nuevo commit con los cambios agreg
-- `git status`: Muestra el estado actual del repositorio, incluyendo los archivos modificados y los cambios pendientes de commit.
+- `git status`: Muestra el estado actual del repositorio, incluyendo los archivos modificados y los cambios pendientes de commit
+
+## Ramas (Branch)
+
+- `git branch`
+- `git checkout` 
 
 ## Repositorios remotos
 
