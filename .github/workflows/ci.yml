@@ -24,6 +24,6 @@ jobs:
         node-version: ${{ matrix.node-version }}
     - run: npm i
     - name: Run Linter
-      run: npm run lint:bad
+      run: npm run lint
     - name: Run tests
-      run: npm test
+      run: npm run test:bad
