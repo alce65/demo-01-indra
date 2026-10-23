@@ -1,0 +1,28 @@
+{
+  "name": "demo-01",
+  "version": "1.0.0",
+  "description": "Este repositorio contiene el material del curso de Git, GitHub y GitLab impartido por Alejandro Cerezo.",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "prepare": "husky"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alce65/demo-01-indra.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/alce65/demo-01-indra/issues"
+  },
+  "homepage": "https://github.com/alce65/demo-01-indra#readme",
+  "devDependencies": {
+    "husky": "^9.1.7"
+  }
+}
