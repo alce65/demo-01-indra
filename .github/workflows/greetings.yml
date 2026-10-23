@@ -9,8 +9,8 @@ jobs:
       issues: write
       pull-requests: write
     steps:
-    - uses: actions/first-interaction@v1
+    - uses: actions/first-interaction@v3
       with:
         repo-token: ${{ secrets.GITHUB_TOKEN }}
-        issue-message: "Message that will be displayed on users' first issue"
-        pr-message: "Message that will be displayed on users' first pull request"
+        issue-message: "Gracias por crear una issue. Un miembro del equipo revisará tu solicitud pronto."
+        pr-message: "Gracias por crear un pull request. Un miembro del equipo revisará tu solicitud pronto."
