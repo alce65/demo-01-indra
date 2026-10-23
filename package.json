@@ -11,6 +11,7 @@
         "test": "echo \"Simulated tests ok\" && exit 0",
         "lint:bad": "echo \"Simulated lint error\" && exit 1",
         "lint": "echo \"Simulated lint ok\" && exit 0",
+        "build": "echo \"Simulated build ok\" && exit 0",
         "prepare": "husky"
     },
     "repository": {
